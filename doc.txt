@@ -1,0 +1,7 @@
+1. COLLECT AND SAVE COMMANDS:
+1.1 Split args by ";" and work on each split alone.
+1.2 Save a split (char[][]) between two ";" or start -> ";" or ";" -> end.
+1.3 Save number of cmds in a split.
+
+2.1 Split args by "|" and save each list of args in a cmd;
+2.2  
